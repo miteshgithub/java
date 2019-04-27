@@ -1,0 +1,7 @@
+Final method can be inherited but can not overriden.
+A variable that is not initialized at the time of declaration is called blank variable.
+We can initialize blank variable but only in constructor.
+A Static blank variable that is not intialized at the time of declaration is called static blank variable. It can be initialized only in static block.
+We can not change argument or parameter of method if it final.
+Constructors can never be final
+
